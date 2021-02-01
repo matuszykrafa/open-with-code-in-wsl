@@ -1,12 +1,12 @@
 # open-with-code-in-wsl
 
 #### Before you proceed, back up your registry.
+\
+Sample:\
 ![Sample](/sample.png)
-\
-\
-\
-Just run the 
-<a download="OpenWithCodeInWSL.reg" href="/OpenWithCodeInWSL.reg" title="OpenWithCodeInWSL.reg">registry file</a>.
+
+### Install
+Just run the <a download="OpenWithCodeInWSL.reg" href="/OpenWithCodeInWSL.reg" title="OpenWithCodeInWSL.reg">registry file</a>.
 
 \
 \

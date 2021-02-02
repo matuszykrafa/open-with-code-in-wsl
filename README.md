@@ -7,7 +7,7 @@ Sample:\
 ![Sample](/sample.png)
 
 ## Installation
-Just download and run the <a download="OpenWithCodeInWSL.reg" href="/OpenWithCodeInWSL.reg" title="OpenWithCodeInWSL.reg">registry file</a>.
+Just download and run the <a download="OpenWithCodeInWSL.reg" href="https://github.com/matuszykrafa/open-with-code-in-wsl/blob/main/OpenWithCodeInWSL.reg" title="OpenWithCodeInWSL.reg">registry file</a>.
 
 #### Open folder in WSL
 If you want to open a folder in WSL I suggest using this:\

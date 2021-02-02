@@ -1,5 +1,5 @@
 # open-with-code-in-wsl
-Simple solution to opening a file from the context menu directly in WSL.
+Simple solution to opening a file from the context menu in VSCode using WSL.
 
 #### Before you proceed, back up your registry.
 
